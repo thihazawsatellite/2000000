@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5220
+#EXTINF:5220,
+http://tvlive.my.id:25461/streaming/clients_live.php?extension=ts&username=mat&password=mat&stream=4
