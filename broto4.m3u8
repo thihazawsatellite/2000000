@@ -1,4 +1,2 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:5220
-#EXTINF:5220,
 http://tvlive.my.id:25461/live/mat/mat/4.m3u8
