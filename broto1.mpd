@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="" ch-number="" group-title="" tvg-logo=""
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=rAS76IFEQx6LMZN1bRLPuQ&exp=1660266227&tvcode=useesport&uid=3180021&utoken=N2JiNjJjODM1ZDcxZTFlOTU1YzEwYzMwN2IxODIzODY=
+https://streaming.useetv.com/dass/133/useesport/manifest_wuseetv.mpd?enc=maUyuEE0Y0JPR9Ft_e3w0A&exp=1660262458&encp=Mz45qVGNHUCQ35md8OJb4Q&expp=1660271158&uid=N2JiNjJjODM1ZDcxZTFlOTU1YzEwYzMwN2IxODIzODY=
