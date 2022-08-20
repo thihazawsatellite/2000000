@@ -1,4 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+#EXTINF:-1 group-title="" ch-number="" tvg-id="" tvg-chno="" tvg-logo=""
 https://etslive-2-vidio-com.akamaized.net/exp=1660990206~acl=/hls-p/ingest_6685_*/*~hmac=bc0ae7da3fc9c17e97992385d192c6a7f3dbb720a513bd4356e7b92be600e036/hls-p/ingest_6685_720p/index.m3u8
