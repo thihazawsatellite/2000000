@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5220
+#EXTINF:5220,
+http://139.99.60.182:35461/streaming/clients_live.php?extension=ts&username=80201072103&password=434567&stream=706
