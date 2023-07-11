@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://royx.xyz:80/play/live.php?mac=00:1a:79:1c:08:9e&stream=683093&extension=m3u8&play_token=XKlZ1lMtN7
