@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407425.m3u8
+http://connect-uk.proxytx.cloud:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941575&extension=m3u8&play_token=tS0VtqGqYs
